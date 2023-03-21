@@ -1,5 +1,4 @@
 # ContextAPI-ContextHook-react
-# ContextAPI-ContetHook-react
 * React Hook provide concept called context.
 * Allow you to acces data at different level opf a  component 
 * it used pass data to particular comonent.
